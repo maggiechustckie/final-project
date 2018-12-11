@@ -1,0 +1,66 @@
+/* CSS Document */
+p 
+{
+    font-family: Arial;
+    color: #000000;
+}
+
+ h2 
+{
+    font-family: Arial;
+    color: #000000;
+	font-size: 20px;
+}
+
+h1 
+{
+    font-family: Arial;
+    color: #000000;
+}
+
+
+
+ 
+body {
+  background-color: #FFFFFF;
+}
+
+img { 
+   border:5px solid #FBE1E1;
+}
+
+a {
+color: #000000;
+}
+
+a:link {
+color: #00000;
+}
+a:visited {
+color: black;
+}
+a:hover {
+color: blue;
+}
+
+.btn-primary {
+	color: black;
+	background-color: #ffb6c1;
+	border-color: #f2f2f2;
+	font-weight: 100;
+}
+.btn-primary:hover {
+	background-color: #000000;
+	border-color: #ffb6c1;
+	
+}
+
+
+	
+		
+		
+		
+		
+		
+		
+	
