@@ -2,22 +2,27 @@
 p 
 {
     font-family: Arial;
-    color: #000000;
+    color: black;
 }
 
  h2 
 {
     font-family: Arial;
-    color: #000000;
+    color: black;
 	font-size: 20px;
 }
 
 h1 
 {
     font-family: Arial;
-    color: #000000;
+    color: white;
+	background-color: #FBE1E1;
 }
 
+h1 {
+   -webkit-text-stroke-width: 1px;
+   -webkit-text-stroke-color: black;
+}
 
 
  
@@ -30,11 +35,11 @@ img {
 }
 
 a {
-color: #000000;
+color: black;
 }
 
 a:link {
-color: #00000;
+color: black;
 }
 a:visited {
 color: black;
@@ -45,13 +50,13 @@ color: blue;
 
 .btn-primary {
 	color: black;
-	background-color: #ffb6c1;
+	background-color: #FBE1E1;
 	border-color: #f2f2f2;
 	font-weight: 100;
 }
 .btn-primary:hover {
 	background-color: #000000;
-	border-color: #ffb6c1;
+	border-color: #FBE1E1;
 	
 }
 
